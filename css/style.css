@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif,verdana;
+}
+.encabezado{
+    background: #344955;
+    height: 30%;
+    width: auto;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    
+}
+.areaPrincipal{
+    background: rgba(30, 108, 147, 1);
+    width: auto;
+    height: auto;
+    padding: 20px 20px 50px 20px;
+    text-align: justify;
+    font-size: 20px;
+    line-height: 30px;
+    color: aliceblue;
+}
+#titulo{
+    background: white;
+    padding: 5px 0px 5px 20px;
+    font-size: 30px;
+    background: #345551;
+    color: aliceblue;
+}
+#video{
+    padding: 5px 30% 0 30%;
+    background: rgba(30, 108, 147, 1);
+    width: auto;
+    height: auto;
+}
+.piePagina{
+    background: black;
+    color: aliceblue;
+    height: 5%;
+    text-align: center;
+    padding: 3px;
+}
+a.btn{
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+    background: #344955;
+    color: aliceblue;
+    padding: 6px;
+    margin: 5px;
+    cursor: pointer;
+    float: right;
+}
+#btn_sup{
+    font-size: 20px;
+}
+ul.areaPrincipal{
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+p{
+    padding-bottom: 10px;
+}
